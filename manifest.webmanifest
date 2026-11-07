@@ -1,0 +1,25 @@
+{
+  "name": "Tandon Jewellers Billing",
+  "short_name": "TJ Billing",
+  "description": "Tandon Jewellers shop billing app",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#1d040b",
+  "theme_color": "#4a0b18",
+  "icons": [
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
